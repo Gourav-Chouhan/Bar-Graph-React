@@ -1,2 +1,2 @@
 # Bar Graph with Bubble sort visualization
-![Live here](https://bar-graph.netlify.app/)
+[Live here](https://bar-graph.netlify.app/)
